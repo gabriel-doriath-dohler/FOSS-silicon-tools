@@ -20,6 +20,7 @@ pkgs.mkShell {
     python311Packages.pyverilog
     magic-vlsi
     kissat
+    opensmt
     # nuXmv # Not FOSS
     cubicle
     nusmv
